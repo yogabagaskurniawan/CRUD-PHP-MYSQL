@@ -7,7 +7,8 @@
     <title>Input database</title>
 </head>
 <body>
-    <form action="simpenn.php" method="POST">
+    <h1>Silahkan tambahkan data</h1>
+    <form action="simpan.php" method="POST">
     <table>
         <tr>
             <td>NIM</td>
